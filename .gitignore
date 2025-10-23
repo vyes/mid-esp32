@@ -1,0 +1,12 @@
+# esp-idf built binaries
+build/
+build_*_*/
+sdkconfig
+sdkconfig.*
+
+# idf-component-manager output
+dependencies.lock
+
+.devcontainer
+.vscode
+.clangd
